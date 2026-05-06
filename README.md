@@ -33,7 +33,7 @@ The developers who built these projects are among the most driven software engin
 
 ## 🚀 The Diecaste Tech Fellowship
 We are actively recruiting the top 10% of developers from this hackathon into the **Diecaste Tech Fellowship**—a highly exclusive, 3-month remote industrial training program where you will build live commercial software for real clients.
-* 🔗 **Hackers, Apply Here:** [Insert Google Form Link Here]
+* 🔗 **Hackers, Apply Here:** [[Insert Google Form Link Here](https://drive.google.com/drive/folders/1pQs8LwdpZtHHfK0LWRqtwtV3dPpru6Qq?usp=sharing)]
 
 ---
 
